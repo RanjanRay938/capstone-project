@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant — README.md content
-
 # Capstone Project
 
 Short description
@@ -152,12 +150,4 @@ If you want, I can add a LICENSE file for you — tell me which license to use.
 Repository owner: RanjanRay938 (they/them)  
 GitHub: https://github.com/RanjanRay938
 
-If you'd like, add your email or other contact details here.
 
----
-
-Would you like me to create this README.md in the repository now? If yes, confirm:
-- commit message (default: "Add README.md")
-- branch (default: main)
-
-I can then push the README.md to RanjanRay938/capstone-project.
